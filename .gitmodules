@@ -1,0 +1,4 @@
+[submodule "devops"]
+	path = devops
+	url = https://github.com/nahtnahs/hello_ha.git
+	branch = dev
